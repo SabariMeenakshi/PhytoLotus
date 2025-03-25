@@ -1,2 +1,2 @@
-# PhytoLotus
-This is a software that one can use to predict the amount of lotuses required for phytoremediating a eutrophied water body. Python Software
+A lightweight offline regression model that predicts *Nelumbo lutea* phytoremediation duration based on temperature and nutrient levels. Includes data preprocessing, training, and reinforcement learning-based optimization (RLHF) for continuous improvement.
+Made by Alan Rajkumar and Sabari Meenakshi in python software.
